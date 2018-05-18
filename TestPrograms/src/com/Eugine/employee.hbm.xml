@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibenate-mapping>
+	<!-- <class name="com.Eugine.SamplePrgrm.Employee" table="t1">
+		<id name="id">
+			<generator class="increament"></generator>
+		</id>
+		<property name="name" />
+
+		<union-sublclass name="com.Eugine.SamplePrgrm.Regular_employee"
+			table="t2">
+			<property name="salary"></property>
+			<property name="bonus"></property>
+		</union-sublclass>
+
+		<union-sublclass name="com.Eugine.SamplePrgrm.Contract_employee"
+			table="t3">
+			<property name="per_hour"></property>
+			<property name="contract_duration"></property>
+		</union-sublclass>
+	</class>
+ -->
+</hibenate-mapping>
+    
+ 
