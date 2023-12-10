@@ -1,16 +1,20 @@
 package testCodePackage;
 
 import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.ArrayList;
 import java.util.Scanner;
+
+
+/*
+ * Purpose of this program is to read substring from a file and write the substring on another.
+ * Author : Udhaya Eugine Loganathan
+ * Date Created : 10th December 2023
+ * 
+*/
 
 public class FileScrapperUtility {
 
